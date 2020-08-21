@@ -2,13 +2,13 @@
 
 ## Exercise I
 
-a) constant time O(1)
+a) linear time O(n)
 
 
-b) quadratic time O(n^2)
+b) exponetial time 0(2^n)
 
 
-c) exponetial time 0(2^n)
+c) linear time O(n)
 
 ## Exercise II
 
